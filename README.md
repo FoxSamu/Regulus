@@ -6,12 +6,12 @@ This repository is under construction!!
 
 Things that are coming and don't need an issue:
 
-* A combined file
-* A minified file
 * A wiki
 * Documentation
 * Examples
-
+* More efficient code
+* Commented code using JSDoc
+* A speedup
 
 Version: Beta 0.1
 
