@@ -1,6 +1,17 @@
+> After 2 years of trying and failing, it is finally done!
 # Regulus
 #### A JavaScript physics engine.
 
-After 2 years of trying and failing, it is finally done!
+This repository is under construction!!
 
-This repository is under construction. I'll finish it soon.
+Things that are coming and don't need an issue:
+
+* A combined file
+* A minified file
+* A wiki
+* Documentation
+* Examples
+
+
+Version: Beta 0.1
+
